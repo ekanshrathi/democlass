@@ -1,2 +1,4 @@
 # democlass
-Learning about GIT &amp; GITHUB from Apna College ( Youtube ).
+Learning about GIT & GITHUB from Apna College ( Youtube ).
+
+author - Ekansh Rathi
